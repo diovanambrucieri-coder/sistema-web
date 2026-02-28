@@ -1,0 +1,21 @@
+# Este arquivo diz ao Git: "Não olhe para estas pastas". 
+# Ambiente Virtual (NUNCA suba esta pasta, ela é pesada e individual)
+venv/
+env/
+ENV/
+
+# Arquivos de Cache do Python (lixo gerado ao rodar o código)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Banco de Dados Local (para cada um ter o seu teste e não dar conflito)
+*.sqlite3
+instance/
+
+# Arquivos de configuração do VS Code ou PyCharm
+.vscode/
+.idea/
+
+# Arquivos de variáveis de ambiente (senhas e chaves secretas)
+.env
