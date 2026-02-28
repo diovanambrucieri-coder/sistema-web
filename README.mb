@@ -1,0 +1,59 @@
+# Sistema Web: Controle de Inventário & Cálculo de Metragem
+> **Projeto Integrador II - UNIVESP**
+
+## Identificação do Projeto
+**Título:** Desenvolvimento de um software de gestão de estoque e auxílio a vendas com framework web, banco de dados e controle de versão.
+**Tema Norteador:** Desenvolvimento de um software com framework web que utilize noções de banco de dados, praticando controle de versão.
+---
+
+##  Sobre o Projeto
+Este sistema foi idealizado para modernizar os processos de uma microempresa de pisos e argamassas em Limeira-SP, substituindo métodos arcaicos por uma ferramenta digital eficiente.
+
+###  O Problema
+A empresa utilizava **controles manuais em papel**, o que gerava falta de precisão nos estoques, alto risco de perda de dados e muita demora para calcular a metragem necessária (m²) nas vendas, causando erros nos orçamentos dos clientes.
+
+###  A Solução
+Desenvolvemos uma aplicação web que centraliza as informações em um banco de dados. O sistema automatiza o registro de entrada e saída de materiais e possui uma calculadora integrada que converte instantaneamente a área desejada em quantidade de caixas, eliminando erros de cálculo e agilizando o atendimento.
+
+---
+
+##  Principais Funcionalidades
+* **Gestão de Estoque:** Registro digital de entrada e saída de materiais.
+* **Calculadora de Área:** Conversão automática de m² para quantidade de caixas.
+* **Banco de Dados:** Centralização de informações para evitar erros humanos.
+* **Interface Web:** Acesso simplificado via navegador.
+
+---
+
+## Tecnologias Utilizadas
+O projeto segue o tema norteador da Univesp:
+* **Linguagem/Framework:** Python com **Flask**
+* **Banco de Dados:** SQLite
+* **Versionamento:** Git & GitHub
+* **Documentação:** Markdown
+
+---
+
+##  Cronograma de Execução (Plano de Ação)
+| Quinzena | Objetivo Principal | Atividade Chave |
+| :--- | :--- | :--- |
+| **Q1-Q4** | Estruturação | Definição de requisitos e prototipagem inicial. |
+| **Q5** | Desenvolvimento | Implementação do Framework Flask e Banco de Dados. |
+| **Q6** | Demonstração | Gravação de Screencast e testes do sistema. |
+| **Q7** | Finalização | Revisão ABNT e entrega do Relatório Final. |
+
+---
+
+##  Equipe de Desenvolvimento
+| Nome | RA |
+| :--- | :--- |
+| **Albert Christian Da Silva Arcelino** | 24202915 |
+| **Diovana Metzker Brucieri** | 24213329 |
+| **Isabella Taline Alves** | 24203904 |
+| **Julio Oliveira Ferreira** | 24213979 |
+| **Kevyn Sobral da Silva** | 23212149 |
+| **Matheus Paschoal** | 24208955 |
+| **Victor Viana de Melo** | 24203415 |
+
+**Polo:** Conchal – SP / Charqueada - SP  
+**Orientadora:** Rafaella Afonso Crepaldi
